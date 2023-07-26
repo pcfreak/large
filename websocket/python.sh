@@ -3,7 +3,7 @@
 # wisnucokrosatrio
 # ==========================================
 # Link Hosting Kalian
-wisnuvpn="raw.githubusercontent.com/inoyaksorojawi/large/sae/websocket"
+wisnuvpn="raw.githubusercontent.com/pcfreak/large/sae/websocket"
 
 # Getting Proxy Template
 wget -q -O /usr/local/bin/stunnelws https://${wisnuvpn}/stunnelws.py
