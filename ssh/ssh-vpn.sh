@@ -15,18 +15,18 @@ MYIP=$(wget -qO- ipinfo.io/ip);
 #MYIP=$(wget -qO- https://ipv4.icanhazip.com);
 MYIP6=$(wget -qO- https://ipv6.icanhazip.com);
 # Link Hosting Kalian
-wisnuvpn="raw.githubusercontent.com/inoyaksorojawi/large/sae/ssh"
+wisnuvpn="raw.githubusercontent.com/pcfreak/large/sae/ssh"
 
 # Link Hosting Kalian Untuk Xray
-wisnuvpnn="raw.githubusercontent.com/inoyaksorojawi/large/sae/xray"
+wisnuvpnn="raw.githubusercontent.com/pcfreak/large/sae/xray"
 
 # Link Hosting Kalian Untuk Trojan Go
-wisnuvpnnn="raw.githubusercontent.com/inoyaksorojawi/large/sae/trojango"
+wisnuvpnnn="raw.githubusercontent.com/pcfreak/large/sae/trojango"
 
 # Link Hosting Kalian Untuk Stunnel5
-wisnuvpnnnn="raw.githubusercontent.com/inoyaksorojawi/large/sae/stunnel5"
+wisnuvpnnnn="raw.githubusercontent.com/pcfreak/large/sae/stunnel5"
 
-wisnuvpnnnnn="raw.githubusercontent.com/inoyaksorojawi/large/sae/update"
+wisnuvpnnnnn="raw.githubusercontent.com/pcfreak/large/sae/update"
 # initializing var
 export DEBIAN_FRONTEND=noninteractive
 MYIP=$(wget -qO- ipinfo.io/ip);
